@@ -1402,7 +1402,7 @@ h2{
 @media (max-width: 480px) {
 
     #name , #job {
-        font-size: 30px !important;
+        font-size: 30.1px !important;
     }
     #name{
         width: 50%;
